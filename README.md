@@ -1,6 +1,4 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm RAMKUMAR R</h1>
-<h3 align="center">BTech AIML student from India</h3>
+![Image](https://github.com/user-attachments/assets/88cbc3ce-34f0-496b-a8aa-284b8cf0bbb4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
