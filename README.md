@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAMKUMAR R</h1>
-<h3 align="center">A BTech AIML student from India</h3>
+<h3 align="center">BTech AIML student from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
