@@ -1,9 +1,10 @@
 ![Image](https://github.com/user-attachments/assets/3ab044d6-29b0-4403-8692-f3fa98e62086)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ramkumar-r-a16a79335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramkumar-r-a16a79335" height="30" width="40" /></a>
-<a href="https://instagram.com/relentless_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="relentless_ram" height="30" width="40" /></a>
+<h3 align="left"> 🌍 Connect With Me:</h3>
+
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)  [Ramkumar R](https://www.linkedin.com/in/ramkumar-r-a16a79335)  
+- ![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)  [relentless_ram](https://www.instagram.com/relentless_ram)
+
 </p>
 <h2> 🚀 Welcome to My GitHub Profile!
 
