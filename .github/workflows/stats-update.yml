@@ -1,1 +1,16 @@
-.github/workflows/stats-update.yml
+name: Update GitHub Stats Daily
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs at midnight UTC every day
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Update README
+        run: |
+          curl -X PURGE https://github-readme-stats-sigma-five.vercel.app/api?username=ramkumar27072006
