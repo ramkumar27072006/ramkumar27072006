@@ -26,7 +26,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ramkumar27072006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramkumar27072006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramkumar27072006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramkumar27072006&theme=highcontrast)](https://git.io/streak-stats)
 ---
 [![](https://visitcount.itsvg.in/api?id=ramkumar27072006&icon=0&color=0)](https://visitcount.itsvg.in)
 
