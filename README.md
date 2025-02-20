@@ -30,9 +30,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramkumar27072006/ramkumar27072006/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ramkumar27072006/ramkumar27072006/output/github-snake.svg" />
 </picture>
-## 📊 GitHub Stats  
-
-![Ramkumar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ramkumar27072006&show_icons=true&theme=dark)
 
 ## 🔥 GitHub Streak  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ramkumar27072006&theme=highcontrast)
