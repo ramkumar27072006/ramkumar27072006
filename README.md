@@ -39,6 +39,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramkumar27072006&layout=compact&theme=dark&cache_seconds=86400)
 
 
-[![](https://visitcount.itsvg.in/api?id=ramkumar27072006&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=ramkumar27072006&color=blue)
+
 
 
