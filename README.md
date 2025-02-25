@@ -29,7 +29,7 @@
 </picture>
 
 ## 🔥 GitHub Streak  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ramkumar27072006)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ramkumar27072006&theme=dark&hide_border=true&card_width=650" alt="GitHub Streak" /></a>
 
 
 ## 🚀 Most Used Languages  
