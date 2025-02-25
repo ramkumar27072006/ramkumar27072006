@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/3ab044d6-29b0-4403-8692-f3fa98e62086)
-
 <h3 align="left"> 🌍 Connect With Me:</h3>
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)  [Ramkumar R](https://www.linkedin.com/in/ramkumar-r-a16a79335)  
