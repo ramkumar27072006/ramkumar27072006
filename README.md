@@ -1,4 +1,7 @@
-<h3 align="left"> 🌍 Connect With Me:</h3>
+<h3 align="left">
+  🔥 B.Tech Student in Artificial Intelligence and Data Science
+  
+  🌍 Connect With Me:</h3>
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)  [Ramkumar R](https://www.linkedin.com/in/ramkumar-r-a16a79335)  
 - ![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)  [relentless_ram](https://www.instagram.com/relentless_ram)
