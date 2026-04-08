@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center"> B.Tech Student | Artificial Intelligence & Data Science</h3>
+<h3 align="center"> B.Tech Student | Artificial Intelligence & Data Science (Medical Engineering)</h3>
 
 <p align="center">
 Passionate about transforming data into intelligent and impactful solutions. Interests lie in machine learning, data analytics, and intelligent automation, with a foundation in programming and applied problem-solving.
