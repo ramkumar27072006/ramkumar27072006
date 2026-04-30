@@ -47,18 +47,6 @@
 ## Tools and Tech
 <div align="center">
 
-| Category | Tools & Technologies |
-|---|---|
-| **AI/ML & Deep Learning** | PyTorch, TensorFlow, Scikit-learn, Deep Learning, CNNs, GANs, LLMs |
-| **Data Science & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Jupyter, SQL, Data Visualization |
-| **NLP & Computer Vision** | NLP, Computer Vision, SchNet, GNNs, Diffusion Models |
-| **Embedded Systems & IoT** | ESP32, Teensy 4.1, Arduino, MAX30102, PPG Sensors, SD Card FS |
-| **Programming Languages** | Python, C/C++, Java, JavaScript, MATLAB, R, SQL |
-| **Web & Automation** | HTML/CSS, JavaScript, Flask, Google Sheets API, Telegram Bot API |
-| **Cybersecurity** | Network Security, Cryptography, Dark Web Analysis |
-
-<div align="center">
-
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
