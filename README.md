@@ -26,11 +26,8 @@
 
 ##  Experience
 
-- **EEG Dataset Research Intern** at Amrita Vishwa Vidyapeetham — Working under **Dr. Abhishek** on EEG signal processing and ML approaches for brain-computer interface applications *(Apr 2026 – Present)*
+- **EEG Dataset Research Intern** at Amrita Vishwa Vidyapeetham — Working on EEG signal processing and ML approaches for brain-computer interface applications *(Apr 2026 – Present)*
 - **Core Member — R&D Department, INIT Club** — Organized GitHub workshops (Anokha PR Game), conducted git training sessions, and contributed to open-source learning initiatives *(2025 – Present)*
-- **Data Science Intern** at **Apex Planet** — 60-day intensive program: built predictive models and end-to-end data analytics pipelines on real-world datasets *(2025)*
-- **Software Development Intern** at **CodeAlpha** — Automation tools, API integrations, and Python-based applications across 3 project cycles *(2025)*
-- **Development Intern** at **CodSoft & VaultOfCodes** — Built practical software projects and strengthened full-stack development skills *(2025)*
 
 ---
 
