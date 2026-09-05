@@ -89,11 +89,11 @@
 ## GitHub Streak  
 <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=ramkumar27072006&theme=dark&hide_border=true&card_width=650" alt="GitHub Streak" /></a>
  -->
-
+<!-- 
 <table align="center" style="border-collapse: collapse;">
 <tr>
 
-<!-- Left Side: Most Used Languages -->
+<!-- Left Side: Most Used Languages 
 <td width="50%" align="center" valign="top">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ramkumar27072006&layout=compact&theme=dark&hide_border=true" width="95%" />
@@ -102,3 +102,5 @@
 
 </tr>
 </table>
+-->
+
