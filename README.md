@@ -9,6 +9,8 @@
 *   **IEEE DataPort Publication:** [Dataset, Graphs, and Feature Descriptors for: Comparative assessment of graph-convolutional neural network architectures for Δ-learning of QM/MM energy corrections on the QM9 dataset](https://ieee-dataport.org/documents/dataset-graphs-and-feature-descriptors-comparative-assessment-graph-convolutional-neural).
 *(Highly utilized resource with over **342,000+ downloads**)*
 
+*   **SSRN Preprint:** [R, Ramkumar and M, Pragalya, CollapseTracker: An Empirical Dataset Documenting Progressive Model Collapse Across Recursive Generations of Synthetic Training Data (April 11, 2026).] Available at SSRN: (https://ssrn.com/abstract=6560303) or (http://dx.doi.org/10.2139/ssrn.6560303).
+
 *"Passionate about transforming data into intelligent and impactful solutions. Interests lie in machine learning, data analytics, and intelligent automation."*
 
 *Enjoy exploring the intersection of AI, software development, and real-world innovation — from building predictive models and visualizations to developing data-driven applications.*
